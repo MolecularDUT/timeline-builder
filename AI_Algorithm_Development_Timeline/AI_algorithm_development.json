@@ -1,0 +1,43 @@
+{
+    "title": {
+        "media": {
+            "url": "https://www.flickr.com/photos/visualpathy/31063265342/in/photolist-PjXmyo-2jojpG6-2iStoUE-2r8J3wb-2mByDUw-2onWKw7-2osMX6Q-2iaQGKu-2kKyvpR-2oyQR5K-2mjzGnQ-2oyCki7-2oP1ikU-2p5VLUy-2reHuFt-2oGatZE-weSxHb-vzsT7S-2r3YLMD-2r6UKDr-2qTjout-2ro5Wha-2rtGN3G-2potuKD-2qJtVr3-2r6sCRo-2pSybGd-2qcVF1n-2qs73GW-2rajUvE-2poz5X2-2pf6UcC-2pexzag-2pgiYzH-2oavrtC-5zEcVt-2qRwzPj-5zEeA2-2qHd5FQ-2q3PvqX-2oVAicS-2poz42D-2pwTiJU-2qMDegt-2pdUJ9V-2poygM3-2ppKQta-2poyfhe-2poz41m-2qLpjPK/",
+            "caption": "Artificial intelligence (AI) is technology that enables computers and machines to simulate human learning, comprehension, problem solving, decision making, creativity and autonomy.",
+            "credit": "<a href='https://www.flickr.com/photos/visualpathy/31063265342/in/photolist-PjXmyo-2jojpG6-2iStoUE-2r8J3wb-2mByDUw-2onWKw7-2osMX6Q-2iaQGKu-2kKyvpR-2oyQR5K-2mjzGnQ-2oyCki7-2oP1ikU-2p5VLUy-2reHuFt-2oGatZE-weSxHb-vzsT7S-2r3YLMD-2r6UKDr-2qTjout-2ro5Wha-2rtGN3G-2potuKD-2qJtVr3-2r6sCRo-2pSybGd-2qcVF1n-2qs73GW-2rajUvE-2poz5X2-2pf6UcC-2pexzag-2pgiYzH-2oavrtC-5zEcVt-2qRwzPj-5zEeA2-2qHd5FQ-2q3PvqX-2oVAicS-2poz42D-2pwTiJU-2qMDegt-2pdUJ9V-2poygM3-2ppKQta-2poyfhe-2poz41m-2qLpjPK/'>from flicker</a>"
+        },
+        "text": {
+            "headline": "AI algorithm development",
+            "text": "<p>The development of AI has been accompanied by many important algorithm discoveries. The following is a summary according to the timeline.</p>"
+        }
+    },
+    "events": [
+        {
+            "media": {
+                "url": "https://www.youtube.com/watch?v=b-nwAiLuH6g",
+                "caption": "深度学习入门, 什么是MP神经元模型",
+                "credit": "youtuber: <a href='https://www.youtube.com/watch?v=b-nwAiLuH6g'>小黑黑讲AI</a>"
+            },
+            "start_date": {
+                "year": "1943"
+            },
+            "text": {
+                "headline": "MP神经元模型",
+                "text": "<p>M-P 神经元模型提出，为神经网络的发展奠定了基础，开启了人工智能算法研究的先河。</p>"
+            }
+        },
+        {
+            "media": {
+                "url": "https://www.youtube.com/watch?v=Gz0mR4DI6dI",
+                "caption": "通俗人工智能 系列之一 机器学习：P168 S1-EP07-多层感知机",
+                "credit": "youtuber: <a href='https://www.youtube.com/watch?v=Gz0mR4DI6dI'>杂音</a>"
+            },
+            "start_date": {
+                "year": "1957"
+            },
+            "text": {
+                "headline": "感知机（Perceptron）",
+                "text": "<p>Frank Rosenblatt 发明感知机（Perceptron），这是一种简单的神经网络模型，奠定了之后 AI 的基本结构，吸引了大量科学家对人工神经网络的研究兴趣</p>"
+            }
+        }
+    ]
+}
