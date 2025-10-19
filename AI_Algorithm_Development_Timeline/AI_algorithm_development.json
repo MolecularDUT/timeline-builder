@@ -28,15 +28,15 @@
         {
             "media": {
                 "url": "https://www.youtube.com/watch?v=Gz0mR4DI6dI",
-                "caption": "通俗人工智能 系列之一 机器学习：P168 S1-EP07-多层感知机",
+                "caption": "通俗人工智能 系列之一 机器学习: P168 S1-EP07-多层感知机",
                 "credit": "youtuber: <a href='https://www.youtube.com/watch?v=Gz0mR4DI6dI'>杂音</a>"
             },
             "start_date": {
                 "year": "1957"
             },
             "text": {
-                "headline": "感知机（Perceptron）",
-                "text": "<p>Frank Rosenblatt 发明感知机（Perceptron），这是一种简单的神经网络模型，奠定了之后 AI 的基本结构，吸引了大量科学家对人工神经网络的研究兴趣</p>"
+                "headline": "感知机(Perceptron)",
+                "text": "<p>Frank Rosenblatt 发明感知机((Perceptron), 这是一种简单的神经网络模型，奠定了之后 AI 的基本结构，吸引了大量科学家对人工神经网络的研究兴趣</p>"
             }
         }
     ]
